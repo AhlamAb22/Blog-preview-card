@@ -110,7 +110,7 @@ body {
     overflow: hidden;
     display: flex;
     flex-direction: column;
-    padding: 1.25em;
+    padding: 1.30em;
     gap: 1.5rem;
     box-shadow: 8px 8px 0px 0px black;
 
@@ -173,6 +173,7 @@ body {
 .author img {
     max-width: 32px;
     max-height: 32px;
+    filter: grayscale(100%);
 }
 
 @media (min-width: 37.5rem){
@@ -188,17 +189,23 @@ body {
         font-size: 1.5rem;
     }
 
-        .category{
+    .category{
         max-width: 5.1rem;
         font-size: 0.857rem;
     }
 
-     .publishdate{
+    .publishdate{
         font-size: 0.857rem;
+        font-weight: 600;
     }
-
 
     .description{
         font-size: 1rem;
     }
+
+    .author{
+        font-weight: 600;
+    }
+
+
 }
