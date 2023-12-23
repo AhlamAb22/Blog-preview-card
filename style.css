@@ -173,7 +173,7 @@ body {
 .author img {
     max-width: 32px;
     max-height: 32px;
-    filter: grayscale(80%);
+    filter: grayscale(25%);
 }
 
 @media (min-width: 37.5rem){
