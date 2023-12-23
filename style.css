@@ -192,6 +192,11 @@ body {
         max-width: 5.1rem;
     }
 
+     .publishdate{
+        font-size: 0.857rem;
+    }
+
+
     .description{
         font-size: 1rem;
     }
