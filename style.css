@@ -188,8 +188,9 @@ body {
         font-size: 1.5rem;
     }
 
-    .category{
+        .category{
         max-width: 5.1rem;
+        font-size: 0.857rem;
     }
 
      .publishdate{
