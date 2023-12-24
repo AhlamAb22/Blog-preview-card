@@ -141,7 +141,6 @@ body {
 
 .publishdate {
     font-size: 0.75rem;
-    font-weight: 400;
 }
 
 .title {
@@ -197,7 +196,7 @@ body {
 
     .publishdate{
         font-size: 0.857rem;
-        font-weight: 600;
+        font-weight: 400;
     }
 
     .description{
